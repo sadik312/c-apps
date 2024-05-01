@@ -1,7 +1,7 @@
-## The purpose of this repo
+### The purpose of this repo
 - The purpose is to develop small projects in order to develop competence in C and then move on to larger and more complex projects.
 
-## Advantages of C:
+### Advantages of C:
 - Efficient and fast
     - Lets you work with memory at a low level, making it ideal for applications that require speed and economical resource usage
 - Portable
@@ -16,7 +16,7 @@
 - Procedural language
     - C follows a procedural paradigm that is often simpler for some types of programming tasks
  
-## Disadvantages of C:
+### Disadvantages of C:
 - Manual memory management
     - Memory needs to be manually allocated and deallocated
 - No Object-oriented feature
